@@ -20,6 +20,7 @@
     "body-parser": "*",
     "express": "*",
     "jade": "*",
-    "nodemailer": "*"
+    "nodemailer": "*",
+    "npm": "^6.4.1"
   }
 }
