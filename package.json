@@ -1,26 +1,17 @@
 {
   "name": "express_website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/volosgoto/express_website.git"
-  },
-  "author": "volosgoto",
+  "author": "Brad Traversy",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/volosgoto/express_website/issues"
-  },
-  "homepage": "https://github.com/volosgoto/express_website#readme",
   "dependencies": {
-    "body-parser": "*",
-    "express": "*",
-    "jade": "*",
-    "nodemailer": "*",
-    "npm": "^6.4.1"
+  	"body-parser": "*",
+  	"express": "*",
+  	"jade": "*",
+  	"nodemailer": "*"
   }
 }
